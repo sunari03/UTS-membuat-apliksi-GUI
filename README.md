@@ -1,5 +1,10 @@
 # UTS-membuat-apliksi-GUI
 #TekniklnformatikaUPB #UniversitasPelitaBangsa
+
+
+https://www.youtube.com/watch?v=VjtwpsP4_dE
+
+
 1. Step pertama buka MATLAB, yang tampilan keseluruhan window-nya kira-kira seperti berikut:
 
  ![image](https://user-images.githubusercontent.com/56722786/117447363-405baa80-aef2-11eb-9284-e75bb5ff1827.png)
